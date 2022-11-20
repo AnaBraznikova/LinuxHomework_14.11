@@ -1,0 +1,15 @@
+Mon Nov 14 21:07:11 UTC 2022
+Sun Nov 20 13:55:37 UTC 2022
+
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/xvda1       8376300 6280220   2096080  75% /
+
+  455  cat Zuikis/file
+  456  cat file
+  457  df / >> file
+  458  cat file
+  459  history | tail -5 >> file
+
+ GenuineIntel
+
+130
